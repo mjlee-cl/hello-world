@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+print('hello world again')
+y=3*4
+print(y)
