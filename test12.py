@@ -6,5 +6,5 @@ This is a temporary script file.
 """
 
 print('hello world again')
-y=3*4
-print(y)
+z=10*40
+print(z)
